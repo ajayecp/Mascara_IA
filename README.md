@@ -2,6 +2,7 @@
 
 Project of facial recognition of people with and without mask
 
+
 Requirements:
 Pycharm 
 
